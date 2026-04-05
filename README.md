@@ -6,9 +6,13 @@
 
 ## 🚀 Overview
 
+## 🚀 Overview
+
 This project demonstrates an end-to-end data analytics workflow combining cloud data processing (AWS S3 & Athena), relational data modeling, business intelligence dashboards (Power BI), and an AI-powered chatbot for natural language querying.
 
 It showcases how modern data tools can be integrated to transform raw data into actionable business insights.
+
+**Note:** The app uses an exported final analytical table derived from the relational Power BI/Athena workflow.
 
 ---
 
@@ -23,6 +27,23 @@ It showcases how modern data tools can be integrated to transform raw data into 
 
    * Data queried using SQL via AWS Athena
    * Enables scalable and serverless data analysis
+     
+## 📊 Key Insights Delivered
+
+This project generates business-critical insights from sales data through both dashboards and AI-powered querying:
+
+- **Total Sales:** ~$14.9M across all transactions  
+- **Total Profit:** ~$1,52. Aggregated net profit from all orders  
+- **Total Orders:** ~8.3K orders processed  
+- **Profit by Product Category:** Identifies highest and lowest performing categories  
+- **Profit by Region:** Highlights top-performing geographical regions  
+- **Maximum Days to Ship:** 92 days. Detects delivery delays and shipping inefficiencies  
+
+These insights are accessible through:
+- 📊 Power BI dashboards (visual analytics)
+- 🤖 AI chatbot (natural language queries)
+
+These insights support data-driven decision-making in areas such as sales optimization, logistics efficiency, and regional performance analysis.
 
 3. **Data Transformation (ETL)**
 
@@ -53,7 +74,7 @@ It showcases how modern data tools can be integrated to transform raw data into 
      * Total Profit
      * Total Orders
      * Profit by Product Category
-     * Maximumum Days to Ship
+     * Maximum Days to Ship
      * Profit by Region
    * Visual insights:
 
@@ -136,7 +157,7 @@ This reflects real-world modern data architecture used in industry.
 * Which region has the highest sales?
 * What is the maximum days to ship?
 * What is the profit by product category?
-* what is the category with the highest sales and how much?
+* What is the category with the highest sales and how much?
 
 ---
 
@@ -145,6 +166,17 @@ This reflects real-world modern data architecture used in industry.
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+
+### 🔐 Set your OpenAI API Key
+
+Before running the app, you must set your OpenAI API key as an environment variable.
+
+#### Windows (PowerShell)
+```bash
+$env:OPENAI_API_KEY="your_api_key_here"
+
+#### Mac/Linux
+export OPENAI_API_KEY="your_api_key_here"
 ```
 
 ---
