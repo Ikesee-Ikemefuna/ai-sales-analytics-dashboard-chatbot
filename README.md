@@ -65,7 +65,7 @@ It showcases how modern data tools can be integrated to transform raw data into 
 
      * "What is total sales?"
      * "Which region has highest profit?"
-     * "What is total loss?"
+     * "What is the total profit?"
 
 ---
 
@@ -86,10 +86,10 @@ This reflects real-world modern data architecture used in industry.
 ## 🧠 Business Metrics
 
 * **Total Sales** → sum of Sales
-* **Total Profit** → sum of Profit
+* **Total Profit** → sum of Profits
 * **Total Orders** → total number of transactions (row count)
 * **Distinct Orders** → unique Order IDs
-* **Profit by Product Category** → sum of profit by category of product
+* **Profit by Product Category** → sum of profit of categories of product
 * **Maximumum Days to Ship** → Longest day it took to ship a product
 * **Profit by Region** → Profit from each geographical location
 
@@ -110,6 +110,7 @@ This reflects real-world modern data architecture used in industry.
 **Business Intelligence**
 
 * Power BI
+* Excel
 
 **AI & Application Layer**
 
@@ -125,12 +126,12 @@ This reflects real-world modern data architecture used in industry.
 
 ## 💡 Example Queries
 
-* What is total sales?
-* What is total profit?
-* How many total orders are there?
+* What is the total sales?
+* What is the total profit?
+* What is the total order?
 * Which region has the highest sales?
 * What is the maximum days to ship?
-* What is total loss?
+* What is the profit by product category?
 
 ---
 
@@ -144,11 +145,11 @@ streamlit run streamlit_app.py
 ---
 
 ## 📸 Screenshots
-*Screenshot Natural Language Querying.
+*Screenshots of Natural Language Querying.
 <img width="1572" height="809" alt="Total_Sales_Streamlit_Query" src="https://github.com/user-attachments/assets/c2c0876b-3d26-451f-bcfa-16b4cd6bdf58" />
 <img width="1562" height="806" alt="Profit_by_Product_Category_Streamlit_Query" src="https://github.com/user-attachments/assets/7abfe5c2-dc09-4124-af06-87614fcaf6a2" />
 
-*Screenshots Data Visualizations.
+*Screenshots of Data Visualizations.
 <img width="1019" height="547" alt="Total_Sales_Total_Profit_Visuals" src="https://github.com/user-attachments/assets/dbe0d014-4aff-4155-8f79-4a66d45d0544" />
 <img width="1029" height="566" alt="Profit_by_Product_Category_Visuals" src="https://github.com/user-attachments/assets/16a4a534-55b0-43c6-98b7-76753f58cec7" />
 <img width="1019" height="564" alt="Total_profit_Total_Shipping_Visuals" src="https://github.com/user-attachments/assets/1cb3d983-2bac-411e-b399-282fe817080f" />
