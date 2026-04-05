@@ -1,5 +1,9 @@
 # 📊 AI-Powered Sales Analytics Pipeline & Chatbot
 
+## 🚀 Live Demo
+
+🔗 **[Open App](https://ai-sales-analytics-dashboard-chatbot-cavzpbqyp6sdvmrtng8tci.streamlit.app/)**
+
 ## 🚀 Overview
 
 This project demonstrates an end-to-end data analytics workflow combining cloud data processing (AWS S3 & Athena), relational data modeling, business intelligence dashboards (Power BI), and an AI-powered chatbot for natural language querying.
@@ -132,6 +136,7 @@ This reflects real-world modern data architecture used in industry.
 * Which region has the highest sales?
 * What is the maximum days to ship?
 * What is the profit by product category?
+* what is the category with the highest sales and how much?
 
 ---
 
