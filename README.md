@@ -151,8 +151,8 @@ streamlit run streamlit_app.py
 
 ## 📸 Screenshots
 *Screenshots of Natural Language Querying.
-<img width="1572" height="809" alt="Total_Sales_Streamlit_Query" src="https://github.com/user-attachments/assets/c2c0876b-3d26-451f-bcfa-16b4cd6bdf58" />
-<img width="1562" height="806" alt="Profit_by_Product_Category_Streamlit_Query" src="https://github.com/user-attachments/assets/7abfe5c2-dc09-4124-af06-87614fcaf6a2" />
+<img width="1553" height="815" alt="Total_Sales_Query" src="https://github.com/user-attachments/assets/9f02158d-155d-44ef-bb06-1b6d15ed8115" />
+<img width="1588" height="816" alt="Profit_by_Category_Query" src="https://github.com/user-attachments/assets/d80b9e74-78fa-4ca3-8257-e95d44ec8709" />
 
 *Screenshots of Data Visualizations.
 <img width="1019" height="547" alt="Total_Sales_Total_Profit_Visuals" src="https://github.com/user-attachments/assets/dbe0d014-4aff-4155-8f79-4a66d45d0544" />
