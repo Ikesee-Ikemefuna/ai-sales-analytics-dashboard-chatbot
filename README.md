@@ -191,15 +191,6 @@ export OPENAI_API_KEY="your_api_key_here"
 <img width="1029" height="566" alt="Profit_by_Product_Category_Visuals" src="https://github.com/user-attachments/assets/16a4a534-55b0-43c6-98b7-76753f58cec7" />
 <img width="1019" height="564" alt="Total_profit_Total_Shipping_Visuals" src="https://github.com/user-attachments/assets/1cb3d983-2bac-411e-b399-282fe817080f" />
 
-
-
-
-
-
-
-
-
-
 ---
 
 ## 🎯 What This Project Demonstrates
@@ -219,8 +210,8 @@ export OPENAI_API_KEY="your_api_key_here"
 
 ## 📌 Future Improvements
 
-    Deploy chatbot on cloud (AWS / Azure)
-    Connect directly to live database
-    Add real-time data ingestion
-    Enhance AI accuracy with structured query generation
+ * Deploy chatbot on cloud (AWS / Azure)
+ * Connect directly to live database
+ * Add real-time data ingestion
+ * Enhance AI accuracy with structured query generation
 
