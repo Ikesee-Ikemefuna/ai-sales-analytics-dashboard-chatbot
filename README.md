@@ -208,14 +208,19 @@ export OPENAI_API_KEY="your_api_key_here"
 * Cloud-based data querying using SQL
 * Relational data modeling
 * Business intelligence dashboarding
-* AI-powered data interaction
-* Real-world analytics workflow
+* AI-powered interaction with business data
+* Real-world analytics workflow and business business insights
+
+## 🔗 Links
+🌐 Live App: https://your-app-link.streamlit.app
+📂 GitHub Repo: https://github.com/Ikesee-Ikemefuna/ai-sales-analytics-dashboard-chatbot
 
 ---
 
 ## 📌 Future Improvements
 
-* Deploy chatbot on cloud (AWS / Azure)
-* Connect directly to live database
-* Add real-time data ingestion
-* Enhance AI accuracy with structured query generation
+    Deploy chatbot on cloud (AWS / Azure)
+    Connect directly to live database
+    Add real-time data ingestion
+    Enhance AI accuracy with structured query generation
+
