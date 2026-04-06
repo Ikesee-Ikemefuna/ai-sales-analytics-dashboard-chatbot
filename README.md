@@ -212,8 +212,8 @@ export OPENAI_API_KEY="your_api_key_here"
 * Real-world analytics workflow and business business insights
 
 ## 🔗 Links
-🌐 Live App: https://your-app-link.streamlit.app
-📂 GitHub Repo: https://github.com/Ikesee-Ikemefuna/ai-sales-analytics-dashboard-chatbot
+* Live App: https://your-app-link.streamlit.app
+* GitHub Repo: https://github.com/Ikesee-Ikemefuna/ai-sales-analytics-dashboard-chatbot
 
 ---
 
