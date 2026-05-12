@@ -186,11 +186,11 @@ export OPENAI_API_KEY="your_api_key_here"
 <img width="1553" height="815" alt="Total_Sales_Query" src="https://github.com/user-attachments/assets/9f02158d-155d-44ef-bb06-1b6d15ed8115" />
 <img width="1588" height="816" alt="Profit_by_Category_Query" src="https://github.com/user-attachments/assets/d80b9e74-78fa-4ca3-8257-e95d44ec8709" />
 
-*Screenshots of Data Visualizations.
+Screenshots of Data Visualizations.
 <img width="1019" height="547" alt="Total_Sales_Total_Profit_Visuals" src="https://github.com/user-attachments/assets/dbe0d014-4aff-4155-8f79-4a66d45d0544" />
 <img width="1029" height="566" alt="Profit_by_Product_Category_Visuals" src="https://github.com/user-attachments/assets/16a4a534-55b0-43c6-98b7-76753f58cec7" />
 <img width="1019" height="564" alt="Total_profit_Total_Shipping_Visuals" src="https://github.com/user-attachments/assets/1cb3d983-2bac-411e-b399-282fe817080f" />
-*Excel Visualization
+Excel Visualization
 <img width="1176" height="635" alt="Excel_visuals" src="https://github.com/user-attachments/assets/f5ca5c47-c72e-4b3d-a432-3d8d9b1fddb7" />
 
 ---
