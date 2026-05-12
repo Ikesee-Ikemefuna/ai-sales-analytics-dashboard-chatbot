@@ -182,7 +182,7 @@ export OPENAI_API_KEY="your_api_key_here"
 ---
 
 ## 📸 Screenshots
-*Screenshots of Natural Language Querying on AI Chatbot.
+Screenshots of Natural Language Querying on AI Chatbot.
 <img width="1553" height="815" alt="Total_Sales_Query" src="https://github.com/user-attachments/assets/9f02158d-155d-44ef-bb06-1b6d15ed8115" />
 <img width="1588" height="816" alt="Profit_by_Category_Query" src="https://github.com/user-attachments/assets/d80b9e74-78fa-4ca3-8257-e95d44ec8709" />
 
