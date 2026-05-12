@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-This project demonstrates an end-to-end data analytics workflow combining cloud data processing (AWS S3 & Athena), relational data modeling, business intelligence dashboards (Power BI), and an AI-powered chatbot for natural language querying.
+This project demonstrates an end-to-end data analytics workflow combining cloud data processing (AWS S3 & Athena), relational data modeling, business intelligence dashboards (Power BI), and an AI-powered chatbot for natural language querying. It also has an Excel version of its visualizations.
 
 It showcases how modern data tools can be integrated to transform raw data into actionable business insights.
 
@@ -161,21 +161,21 @@ This reflects real-world modern data architecture used in industry.
 
 ---
 
-## ▶️ Run Locally
+## ▶️ To Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 
-### 🔐 Set your OpenAI API Key
+### 🔐 Set your OPENAI_API_KEY
 
 Before running the app, you must set your OpenAI API key as an environment variable.
 
-#### Windows (PowerShell)
+#### For Windows (Powershell)
 ```bash
 $env:OPENAI_API_KEY="your_api_key_here"
 
-#### Mac/Linux
+#### For Mac/Linux
 export OPENAI_API_KEY="your_api_key_here"
 ```
 
